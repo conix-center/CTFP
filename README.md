@@ -12,7 +12,7 @@ A DSL for Timing-Sensitive Computation
 Proceedings of the ACM Conference on Computer and Communications Security (October 15 2018)
 ```
 
-This work is documented by SRC publication [P095923]
+This work is documented by SRC publication [P094111](https://www.src.org/library/publication/P094111/P094111.pdf)
 
 ## Abstract
 
